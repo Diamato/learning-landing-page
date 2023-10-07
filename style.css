@@ -74,3 +74,26 @@ ul, ol{
     border: none;
     border-radius: 10px;
 }
+.about{}
+.about__container{}
+.about-title{}
+.about-body{}
+.about-item{}
+
+
+
+
+.blockquote{}
+.blockquote__container{}
+.blockquote-text{}
+.blockquote-text span{}
+
+
+
+.billboard{}
+.billboard__container{}
+.billboard-text{}
+.billboard-title{}
+.billboard-btn{}
+.billboard-button{}
+.footer{}
